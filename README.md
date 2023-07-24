@@ -1,1 +1,1 @@
-# Pricing-Table
+# pricing-table
